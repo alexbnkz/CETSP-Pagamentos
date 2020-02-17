@@ -71,9 +71,9 @@ def download_file(row):
                 }
                 
                 # hashing json file name with uuid
-                hash = uuid4().hex
+                hash = uuid4().hex.lower()
                 
-                file_json = f'{ROOT_DIR}/data/{hash}.json'.lower()
+                file_json = f'{ROOT_DIR}/data/{hash}.json'
 
                 # save file 
                 with open(file_json, mode="w") as f:
