@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/CETSP-Pagamentos.svg)](http://hits.dwyl.com/learning-crawlers/CETSP-Pagamentos)
+
 # CETSP Folha De Pagamentos
 Extração de dados com Requests para listar pagamentos da CET - Companhia de Engenharia de Tráfego da cidade de São Paulo
 
